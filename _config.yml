@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Bo Guo (郭博)"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/gb-512x512.png"
   bio              : "Beihang University"
   location         : "Beijing, China"
   employer         :
