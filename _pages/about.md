@@ -19,7 +19,7 @@ redirect_from:
 
 👋 Hi, I’m Bo Guo, a Master's student at Beihang University, advised by <a href='https://wensijia.work/'>Prof. Sijia Wen</a> and <a href='https://iai.buaa.edu.cn/info/1147/3231.htm'>Academician Zhiming Zheng</a>, and collaborating closely with <a href='https://zhao1f.github.io/'>Prof. Yifan Zhao</a>. My research focuses on **3D reconstruction** and **neural rendering of avatars**. I aim to bridge geometry precision and dynamic realism in 3D digital human reconstruction.
 
-I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf) for more information.
+I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](https://github.com/superkeaibb/superkeaibb.github.io/docs/CV.pdf) for more information.
 
 
 # 🔥 News
@@ -27,7 +27,7 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><video src='images/tga.mp4' width="100%" autoplay loop muted playsinline></video></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><video src='images/tga-1.mp4' width="100%" autoplay loop muted playsinline></video></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TGA: True-to-Geometry Avatar Dynamic Reconstruction](https://openreview.net/pdf?id=EyFrTjaYU3)
@@ -45,7 +45,7 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/polargs-500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/polargs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery]
@@ -53,7 +53,7 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 **Bo Guo**, Sijia Wen, Yifan Zhao, Jia Li, Zhiming Zheng    
 
 [**project page**](https://superkeaibb.github.io/PolarGS/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**paper**](/docs/polargs.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**paper**](https://github.com/superkeaibb/superkeaibb.github.io/docs/polargs.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 </div>
