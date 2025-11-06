@@ -34,7 +34,7 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 
 **Bo Guo**, Sijia Wen, Ziwei Wang, Yifan Zhao  
 
-[**project page**](https://superkeaibb.github.io/TGA/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>, 
+[**project page**](https://superkeaibb.github.io/TGA/), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**paper**](https://openreview.net/pdf?id=EyFrTjaYU3) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
@@ -52,7 +52,7 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 
 **Bo Guo**, Sijia Wen, Yifan Zhao, Jia Li, Zhiming Zheng    
 
-[**project page**](https://superkeaibb.github.io/PolarGS/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>,
+[**project page**](https://superkeaibb.github.io/PolarGS/), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>,
 [**paper**](docs/polargs.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
