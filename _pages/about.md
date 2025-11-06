@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 👋 Hi, I’m Bo Guo, a Master's student at Beihang University, advised by Prof. Sijia Wen and Academician Zhiming Zheng. My research focuses on **3D reconstruction** and **neural rendering of avatars**. I aim to bridge geometry precision and dynamic realism in 3D digital human reconstruction.
+
 I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf) for more information.
 
 
