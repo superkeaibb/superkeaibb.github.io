@@ -31,9 +31,9 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><video src='images/tga-1.mp4' width="100%" autoplay loop muted playsinline></video></div></div>
 <div class='paper-box-text' markdown="1">
 
-[TGA: True-to-Geometry Avatar Dynamic Reconstruction](https://openreview.net/pdf?id=EyFrTjaYU3)
+[TGA: True-to-Geometry Avatar Dynamic Reconstruction](https://openreview.net/pdf?id=EyFrTjaYU3) <span style="background-color:#d9534f; color:white; padding:2px 6px; border-radius:4px; font-size:0.8em; font-weight:bold;">Spotlight</span>
 
-**Bo Guo**, Sijia Wen, Ziwei Wang, Yifan Zhao  <span style="background-color:#d9534f; color:white; padding:2px 6px; border-radius:4px; font-size:0.8em; font-weight:bold;">Spotlight</span>
+**Bo Guo**, Sijia Wen, Ziwei Wang, Yifan Zhao  
 
 
 [**project page**](https://superkeaibb.github.io/TGA/), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -70,9 +70,9 @@ PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate G
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/slamgs-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Polarimetric Monocular Gaussian Splatting SLAM for Dense Surface Reconstruction](https://dl.acm.org/doi/10.1145/3746027.3754925)
+[Polarimetric Monocular Gaussian Splatting SLAM for Dense Surface Reconstruction](https://dl.acm.org/doi/10.1145/3746027.3754925) <span style="background-color:#d9534f; color:white; padding:2px 6px; border-radius:4px; font-size:0.8em; font-weight:bold;">Oral</span>
 
-Haitao Wang, Sijia Wen, **Bo Guo** <span style="background-color:#d9534f; color:white; padding:2px 6px; border-radius:4px; font-size:0.8em; font-weight:bold;">Oral</span>
+Haitao Wang, Sijia Wen, **Bo Guo**
 
 [**paper**](https://dl.acm.org/doi/10.1145/3746027.3754925) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This work is recommended as ACM Multimedia Oral !! 
