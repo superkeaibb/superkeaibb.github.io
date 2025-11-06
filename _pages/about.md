@@ -17,10 +17,8 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 Hi, I’m **Bo Guo (郭博)** — a Master's student at Beihang University, advised by **Prof. Sijia Wen** and **Academician Zhiming Zheng**.  
-My research focuses on **3D reconstruction and neural rendering of avatars**.  
-I aim to bridge geometry precision and dynamic realism in 3D digital human reconstruction.
-
+👋 Hi, I’m Bo Guo, a Master's student at Beihang University, advised by Prof. Sijia Wen and Academician Zhiming Zheng. My research focuses on **3D reconstruction** and **neural rendering of avatars**. I aim to bridge geometry precision and dynamic realism in 3D digital human reconstruction.
+I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf) for more information.
 
 
 # 🔥 News
@@ -28,7 +26,7 @@ I aim to bridge geometry precision and dynamic realism in 3D digital human recon
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/tga-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [TGA: True-to-Geometry Avatar Dynamic Reconstruction](https://openreview.net/pdf?id=EyFrTjaYU3)
@@ -43,7 +41,7 @@ I aim to bridge geometry precision and dynamic realism in 3D digital human recon
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/polargs-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery]
@@ -58,7 +56,7 @@ I aim to bridge geometry precision and dynamic realism in 3D digital human recon
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2025</div><img src='images/slamgs-500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Polarimetric Monocular Gaussian Splatting SLAM for Dense Surface Reconstruction](https://dl.acm.org/doi/10.1145/3746027.3754925)
