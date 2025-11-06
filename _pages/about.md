@@ -34,6 +34,8 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 [TGA: True-to-Geometry Avatar Dynamic Reconstruction](https://openreview.net/pdf?id=EyFrTjaYU3)
 
 **Bo Guo**, Sijia Wen, Ziwei Wang, Yifan Zhao  
+<span style="background-color:#d9534f; color:white; padding:2px 6px; border-radius:4px; font-size:0.8em; font-weight:bold;">Spotlight</span>
+
 
 [**project page**](https://superkeaibb.github.io/TGA/), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**paper**](https://openreview.net/pdf?id=EyFrTjaYU3) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -49,9 +51,11 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/polargs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery]
+PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery
 
 **Bo Guo**, Sijia Wen, Yifan Zhao, Jia Li, Zhiming Zheng    
+<span style="background-color:#d9534f; color:white; padding:2px 6px; border-radius:4px; font-size:0.8em; font-weight:bold;">Oral</span>
+
 
 [**project page**](https://superkeaibb.github.io/PolarGS/), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>,
 [**paper**](docs/polargs.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
