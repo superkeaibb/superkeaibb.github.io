@@ -33,7 +33,9 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 
 **Bo Guo**, Sijia Wen, Ziwei Wang, Yifan Zhao  
 
+[**paper**](https://openreview.net/pdf?id=EyFrTjaYU3) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**project page**](https://superkeaibb.github.io/TGA/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 - This work is recommended as NeurIPS Spotlight !! 
 </div>
 </div>
@@ -48,7 +50,9 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 
 **Bo Guo**, Sijia Wen, Yifan Zhao, Jia Li, Zhiming Zheng    
 
+[**paper**](/docs/polargs.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**project page**](https://superkeaibb.github.io/PolarGS/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 </div>
 </div>
 
@@ -63,6 +67,7 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 
 Haitao Wang, Sijia Wen, **Bo Guo**
 
+[**paper**](https://dl.acm.org/doi/10.1145/3746027.3754925) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This work is recommended as ACM Multimedia Oral !! 
 </div>
 </div>
