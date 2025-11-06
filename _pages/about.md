@@ -23,7 +23,8 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Our paper, “TGA: True-to-Geometry Avatar Dynamic Reconstruction,” was accepted to NeurIPS 2025 as spotlight paper!
+- *2025.09*: &nbsp;🎉🎉 Our paper, “TGA: True-to-Geometry Avatar Dynamic Reconstruction,” was accepted to NeurIPS 2025 as a spotlight paper!
+- *2025.05*: &nbsp;🎉🎉 Our paper, “Polarimetric Monocular Gaussian Splatting SLAM for Dense Surface Reconstruction,” was accepted to ACM MM 2025 as an oral paper!
 
 # 📝 Publications 
 
