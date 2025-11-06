@@ -33,8 +33,7 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 
 [TGA: True-to-Geometry Avatar Dynamic Reconstruction](https://openreview.net/pdf?id=EyFrTjaYU3)
 
-**Bo Guo**, Sijia Wen, Ziwei Wang, Yifan Zhao  
-<span style="background-color:#d9534f; color:white; padding:2px 6px; border-radius:4px; font-size:0.8em; font-weight:bold;">Spotlight</span>
+**Bo Guo**, Sijia Wen, Ziwei Wang, Yifan Zhao  <span style="background-color:#d9534f; color:white; padding:2px 6px; border-radius:4px; font-size:0.8em; font-weight:bold;">Spotlight</span>
 
 
 [**project page**](https://superkeaibb.github.io/TGA/), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
@@ -54,10 +53,10 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery
 
 **Bo Guo**, Sijia Wen, Yifan Zhao, Jia Li, Zhiming Zheng    
-<span style="background-color:#d9534f; color:white; padding:2px 6px; border-radius:4px; font-size:0.8em; font-weight:bold;">Oral</span>
 
 
-[**project page**](https://superkeaibb.github.io/PolarGS/), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>,
+
+[**project page**](https://superkeaibb.github.io/PolarGS/), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**paper**](docs/polargs.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
@@ -73,7 +72,7 @@ PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate G
 
 [Polarimetric Monocular Gaussian Splatting SLAM for Dense Surface Reconstruction](https://dl.acm.org/doi/10.1145/3746027.3754925)
 
-Haitao Wang, Sijia Wen, **Bo Guo**
+Haitao Wang, Sijia Wen, **Bo Guo** <span style="background-color:#d9534f; color:white; padding:2px 6px; border-radius:4px; font-size:0.8em; font-weight:bold;">Oral</span>
 
 [**paper**](https://dl.acm.org/doi/10.1145/3746027.3754925) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - This work is recommended as ACM Multimedia Oral !! 
