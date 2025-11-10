@@ -91,3 +91,4 @@ Haitao Wang, Sijia Wen, **Bo Guo**
 
 # 📖 Educations
 - *2023.09 - 2026.06 (now)*, Master, Beihang University, Beijing. 
+- *2019.09 - 2023.06 (now)*, Bachelor, Beihang University & BUCEA, Beijing. 
