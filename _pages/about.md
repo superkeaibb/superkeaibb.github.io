@@ -95,13 +95,15 @@ Haitao Wang, Sijia Wen, **Bo Guo**
 
 
 
+{% raw %}
 <section id="analytics" style="text-align:center;">
-  <b>Site Analytics</b> <br>
+  <b>Site Analytics</b><br>
   <div style="display:inline-block;max-width:400px;width:100%;">
     <script
-      id="clustrmaps"
+      id="mapmyvisitors"
       type="text/javascript"
       src="//mapmyvisitors.com/map.js?d=HsPqJtsfuf82EhuzyNas7CoirT1FypCtaGfzte7Zi8M&cl=ffffff&w=a">
     </script>
   </div>
 </section>
+{% endraw %}
