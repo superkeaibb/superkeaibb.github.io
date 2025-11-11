@@ -94,14 +94,14 @@ Haitao Wang, Sijia Wen, **Bo Guo**
 - *2019.09 - 2023.06 (now)*, Bachelor, Beihang University & BUCEA, Beijing. 
 
 
-# 🌍 Site Analytics
+
 <section id="analytics" style="text-align:center;">
-  <b>Site Analytics</b> (since Oct. 2025)<br>
-  <div style="display:inline-block;max-width:520px;width:100%;background:#2c3e50;">
+  <b>Site Analytics</b> <br>
+  <div style="display:inline-block;max-width:400px;width:100%;">
     <script
       id="clustrmaps"
       type="text/javascript"
-      src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=wtj1UfeAzDOm5LDbzaT_JEjsvSbcsmVjNP6ywgF9joE&co=2c3e50">
+      src="//mapmyvisitors.com/map.js?d=HsPqJtsfuf82EhuzyNas7CoirT1FypCtaGfzte7Zi8M&cl=ffffff&w=a">
     </script>
   </div>
 </section>
