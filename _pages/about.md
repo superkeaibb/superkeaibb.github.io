@@ -95,4 +95,5 @@ Haitao Wang, Sijia Wen, **Bo Guo**
 
 
 # 🌍 Site Analytics
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=HsPqJtsfuf82EhuzyNas7CoirT1FypCtaGfzte7Zi8M&cl=ffffff&w=a"></script>
+<script id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=...&co=2c3e50"></script>
+<a id="clustrmaps-widget-v2" style="width: 400px;">
