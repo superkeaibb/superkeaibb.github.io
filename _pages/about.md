@@ -19,8 +19,6 @@ redirect_from:
 
 👋 Hi, I’m Bo Guo, a Master's student at Beihang University, advised by <a href='https://wensijia.work/'>Prof. Sijia Wen</a> and <a href='https://iai.buaa.edu.cn/info/1147/3231.htm'>Academician Zhiming Zheng</a>, and collaborating closely with <a href='https://zhao1f.github.io/'>Prof. Yifan Zhao</a>. My research focuses on **3D reconstruction** and **neural rendering of avatars**. I aim to bridge geometry precision and dynamic realism in 3D digital human reconstruction.
 
-I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf) for more information.
-
 
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 Our paper, “TGA: True-to-Geometry Avatar Dynamic Reconstruction,” was accepted to NeurIPS 2025 as a spotlight paper!
@@ -37,7 +35,9 @@ I’m looking for a Ph.D. position for Fall 2026. Please see my [CV](docs/CV.pdf
 
 
 [**project page**](https://superkeaibb.github.io/TGA/), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**paper**](https://openreview.net/pdf?id=EyFrTjaYU3) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**paper**](https://openreview.net/pdf?id=EyFrTjaYU3), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**code**]([https://openreview.net/pdf?id=EyFrTjaYU3](https://github.com/superkeaibb/true-to-geometry-avatar)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
 
 
 - This work is recommended as NeurIPS Spotlight !! 
@@ -90,7 +90,7 @@ Haitao Wang, Sijia Wen, **Bo Guo**
 - *2025.06* **3rd Prize** of the 35th “Fengru Cup” Main Track Competition.
 
 # 📖 Educations
-- *2023.09 - 2026.06 (now)*, Master, Beihang University, Beijing. 
+- *2023.09 - 2026.06*, Master, Beihang University, Beijing. 
 - *2019.09 - 2023.06*, Bachelor, Beihang University & BUCEA, Beijing. 
 
 
