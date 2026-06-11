@@ -34,7 +34,7 @@ redirect_from:
 **Bo Guo**, Sijia Wen, Ziwei Wang, Yifan Zhao  
 
 
-[**project page**](https://superkeaibb.github.io/TGA/), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**project page**](https://superkeaibb.github.io/TGA_web/), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**paper**](https://openreview.net/pdf?id=EyFrTjaYU3), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 [**code**]([https://openreview.net/pdf?id=EyFrTjaYU3](https://github.com/superkeaibb/true-to-geometry-avatar)) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
