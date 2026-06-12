@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-👋 Hi, I’m Bo Guo, a Master's student at Beihang University, advised by <a href='https://wensijia.work/'>Prof. Sijia Wen</a> and <a href='https://iai.buaa.edu.cn/info/1147/3231.htm'>Academician Zhiming Zheng</a>, and collaborating closely with <a href='https://zhao1f.github.io/'>Prof. Yifan Zhao</a>. My research focuses on **3D reconstruction** and **neural rendering of avatars**. I aim to bridge geometry precision and dynamic realism in 3D digital human reconstruction.
+👋 Hi, I’m Bo Guo, an incoming PhD student at <a href='http://www.cad.zju.edu.cn/'>State Key Lab of CAD & CG</a>, Zhejiang University, advised by Prof. <a href='https://tianjiashao.com/'>Tianjia Shao</a> and Prof. <a href='http://kunzhou.net/'>Kun Zhou</a>. My research focuses on **3D reconstruction** and **neural rendering of avatars**. I aim to bridge geometry precision and dynamic realism in 3D digital human reconstruction. I obtained my Master’s degree in Computer Technology from Beihang University, <a href='https://wensijia.work/'>Prof. Sijia Wen</a> and <a href='https://iai.buaa.edu.cn/info/1147/3231.htm'>Academician Zhiming Zheng</a>, and collaborating closely with <a href='https://zhao1f.github.io/'>Prof. Yifan Zhao</a>. 
 
 
 # 🔥 News
@@ -51,14 +51,14 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2026</div><img src='images/polargs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery
+[PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery](https://ieeexplore.ieee.org/abstract/document/11534429)
 
 **Bo Guo**, Sijia Wen, Yifan Zhao, Jia Li, Zhiming Zheng    
 
 
 
 [**project page**](https://superkeaibb.github.io/PolarGS/), <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-[**paper**](docs/polargs.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**paper**](https://ieeexplore.ieee.org/abstract/document/11534429) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
 
 </div>
