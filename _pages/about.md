@@ -21,8 +21,9 @@ redirect_from:
 
 
 # 🔥 News
-- *2025.09*: &nbsp;🎉🎉 Our paper, “TGA: True-to-Geometry Avatar Dynamic Reconstruction,” was accepted to NeurIPS 2025 as a spotlight paper!
-- *2025.05*: &nbsp;🎉🎉 Our paper, “Polarimetric Monocular Gaussian Splatting SLAM for Dense Surface Reconstruction,” was accepted to ACM MM 2025 as an oral paper!
+- *2026.05*: &nbsp;🎉🎉 Our paper, “PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery”, was accepted to IEEE TIP 2026!
+- *2025.09*: &nbsp;🎉🎉 Our paper, “TGA: True-to-Geometry Avatar Dynamic Reconstruction”, was accepted to NeurIPS 2025 as a spotlight paper!
+- *2025.05*: &nbsp;🎉🎉 Our paper, “Polarimetric Monocular Gaussian Splatting SLAM for Dense Surface Reconstruction”, was accepted to ACM MM 2025 as an oral paper!
 
 # 📝 Publications 
 
@@ -40,14 +41,14 @@ redirect_from:
 
 
 
-- This work is recommended as NeurIPS Spotlight !! 
+- This work is recommended as **NeurIPS 2025 Spotlight** !! 
 </div>
 </div>
 
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Preprint</div><img src='images/polargs.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TIP 2026</div><img src='images/polargs.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate Geometry Recovery
@@ -75,7 +76,7 @@ PolarGS: Polarimetric Cues for Ambiguity-Free Gaussian Splatting with Accurate G
 Haitao Wang, Sijia Wen, **Bo Guo**
 
 [**paper**](https://dl.acm.org/doi/10.1145/3746027.3754925) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- This work is recommended as ACM Multimedia Oral !! 
+- This work is recommended as **ACM Multimedia 2025 Oral** !! 
 </div>
 </div>
 
